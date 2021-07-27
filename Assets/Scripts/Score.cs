@@ -12,4 +12,4 @@ public class Score : MonoBehaviour
 	{
 		scoreText.text = player.position.z.ToString("0");
 	}
-}
+} // more nonsense to test git branching
